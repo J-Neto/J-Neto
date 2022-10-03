@@ -1,10 +1,4 @@
 ### Eae, blz? Eu sou o José Neto, bem vindo ao meu perfil 🤙
-
-- 🔭 Hoje trabalho com back-end
-- 📦 Estudando sobre containers
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu sou back-end, mas estou começando a me aventurar pelo mundo do front-end
-
 <div align="left">
   <a href="https://github.com/J-Neto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,3 +21,10 @@
   <a href="https://www.linkedin.com/in/josé-neto-299920152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/netoso_44" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
+
+  ## 
+  
+- 🔭 Hoje trabalho com back-end
+- 📦 Estudando sobre containers
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: Eu sou back-end, mas estou começando a me aventurar pelo mundo do front-end
