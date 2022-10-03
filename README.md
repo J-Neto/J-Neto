@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu sou back-end, mas estou começando a me aventurar pelo mundo do front-end
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/J-Neto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Neto&layout=compact&langs_count=7&theme=tokyonight"/>
