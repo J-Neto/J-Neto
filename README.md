@@ -10,6 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Neto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+## Tecnologias que eu uso no meu dia a dia
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Neto-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Neto-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
