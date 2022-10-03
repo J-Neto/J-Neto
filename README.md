@@ -1,20 +1,5 @@
 ### Eae, blz? Eu sou o José Neto, bem vindo ao meu perfil 🤙
 
-<!--
-**J-Neto/J-Neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando sobre containers ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu sou back-end, mas estou começando a me aventurar pelo mundo do front-end
--->
-
 - 🔭 Hoje trabalho com back-end
 - 📦 Estudando sobre containers
 - 😄 Pronouns: ele/dele
@@ -39,4 +24,5 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://www.instagram.com/neto._ribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josé-neto-299920152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/netoso_44" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
