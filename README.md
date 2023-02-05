@@ -1,4 +1,4 @@
-Hi, I'm José Neto 🤙🏻
+# Hi, I'm José Neto 🤙🏻
 
 # 💫 About Me:
 🔭 I’m currently working as a NodeJS backend developer.<br>
