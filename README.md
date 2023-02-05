@@ -1,5 +1,4 @@
 ### Hi there, I'm José Neto</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-<br>
 
 ### 💫 About Me:
 🔭 I’m currently working as a NodeJS backend developer.<br>
