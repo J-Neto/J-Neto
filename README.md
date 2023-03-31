@@ -1,10 +1,10 @@
 ### Hi there, I'm José Neto</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ### 💫 About Me:
-🔭 I’m currently working as a NodeJS backend developer.<br>
+🔭 I’m currently working as a web developer.<br>
 🏫 I have a degree in computer engineering. <br>
 👨🏻‍💼 I have already participated in a junior enterprise. <br>
-⚡ I'm backend, but i'm learning about frontend and mobile development. <br>
+⚡ I've already done projects in backend and mobile, but now i'm learning about frontend development. <br>
 💬 Ask me about NodeJs, MySQL, Project Management.<br>
 
 ### 🌐 Socials:
