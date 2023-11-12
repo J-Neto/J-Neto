@@ -1,7 +1,7 @@
 ### Hi there, I'm José Neto</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 ### 💫 About Me:
-🔭 I’m currently working as a web developer.<br>
+🔭 I’m currently working as a Automation and Innovation Analyst.<br>
 🏫 I have a degree in computer engineering. <br>
 👨🏻‍💼 I have already participated in a junior enterprise. <br>
 ⚡ I've already done projects in backend and mobile, but now i'm learning about frontend development. <br>
