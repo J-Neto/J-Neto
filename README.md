@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 🔭 I’m currently working as a Senior Automation Analyst.<br>
-🏫 I have a degree in computer engineering. <br>
+🏫 I have a degree in computer engineering. My final thesis was about LSTM neural networks. <br>
 👨🏻‍💼 I have already participated in a junior enterprise. <br>
 ⚡ I've already done frontend, backend and mobile projects, but now I'm learning about data science. <br>
 💬 Ask me about NodeJs, MySQL, Project Management.<br>
