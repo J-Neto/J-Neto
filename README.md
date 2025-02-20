@@ -9,7 +9,7 @@
 🌍 I speak Portuguese, and I'm currently learning English. Even though I'm not fluent yet, I’m open to chatting with native speakers to improve my skills. Feel free to reach out! <br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-neto-299920152/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/neto._ribeiro/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-neto-299920152/)
 <br>
 
 ### 💻 Tech Stack:
