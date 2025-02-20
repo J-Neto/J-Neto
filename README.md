@@ -4,8 +4,9 @@
 🔭 I’m currently working as a Senior Automation Analyst.<br>
 🏫 I have a degree in computer engineering. <br>
 👨🏻‍💼 I have already participated in a junior enterprise. <br>
-⚡ I've already done frontend, backend and mobile projects, but now i'm learning about data science. <br>
+⚡ I've already done frontend, backend and mobile projects, but now I'm learning about data science. <br>
 💬 Ask me about NodeJs, MySQL, Project Management.<br>
+🌍 I speak Portuguese, and I'm currently learning English. Even though I'm not fluent yet, I’m open to chatting with native speakers to improve my skills. Feel free to reach out! <br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-neto-299920152/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/neto._ribeiro/) 
